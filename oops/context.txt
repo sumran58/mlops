@@ -14,3 +14,8 @@ but in pythoon we dont have 100% gurantee to hide or protect any attribute and t
 print(user1._chatbook__name) so user1 us the object the chatbook is the classname and name is the attribute which is protected
 
 getter and setter : to get the hidden data and to modify the data we have getter andf setter 
+
+
+inheritance : means a child class can inherit the properties methods of th parent class 
+method overridng : means the child class having the method with the same name as that of the parent method but the chhild will ahve its own 
+implementation orvdefinition of the method 
