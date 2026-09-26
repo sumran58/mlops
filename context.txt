@@ -1,7 +1,0 @@
-class is a blueprint that contains methods functions data and attributes and object is a real instance of the  class  that can access anything from the class 
-we define the class uding the constrcutor which is also known as duncder/magic/specail method def__init__(self)
-any function defined inside the class is known as method 
-as soon as we create the object of the class the atributes and the data gets initiated automatically but the method need to be called manually 
-
-all the datastructure and the datatypes are the class whenever we see the type of any of these we can also see the class printed beside it 
-suppose list it is class we have so many methods under this class like extend,clear,append,etc
