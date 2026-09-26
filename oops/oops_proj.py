@@ -1,9 +1,16 @@
 class chatbook:
     def __init__(self):
+        self.__name='Default user'
         self.username=''
         self.password=''
         self.logging=False
         self.menu()
+
+    def get_name(self): #gettr method
+        return self.__name
+
+    def set_name(self,value): #setter method
+        self.__name=value
 
     def menu(self):
         user_input=input("""enter to the chatbook how would you like to preoceed
@@ -68,4 +75,3 @@ class chatbook:
         self.menu()
 
 c=chatbook()
-c
