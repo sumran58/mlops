@@ -9,3 +9,4 @@ class employee:
 sam=employee()
 print(sam.id)
 sam.travel("kerala")
+sam.travel("udupi")
