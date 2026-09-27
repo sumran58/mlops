@@ -19,3 +19,7 @@ getter and setter : to get the hidden data and to modify the data we have getter
 inheritance : means a child class can inherit the properties methods of th parent class 
 method overridng : means the child class having the method with the same name as that of the parent method but the chhild will ahve its own 
 implementation orvdefinition of the method 
+
+super keyword : so when we create a dervied class and also define the constructor inside the devued class then we cant access the attributed of th parent class so we have to give the 
+super keyword inisde the derived class attribute and the method which ever we will create if we want to access the attribute from the parent class at that particular method 
+super ko child class se he access kar sakte not from the parent class 
