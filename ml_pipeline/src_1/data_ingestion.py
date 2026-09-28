@@ -92,9 +92,9 @@ def save_data(train_data: pd.DataFrame, test_data: pd.DataFrame, data_path: str)
 
 def main():
     try:
-        #params = load_params(params_path=os.path.join(project_root, 'params.yaml'))
-        #test_size = params['data_ingestion']['test_size']
-        test_size = 0.2
+        params = load_params(params_path=os.path.join(project_root, 'params.yaml'))
+        test_size = params['data_ingestion']['test_size']
+        #test_size = 0.2
         data_path = 'https://raw.githubusercontent.com/sumran58/mlops/refs/heads/main/ml_pipeline/experiments/spam.csv'
         df = load_data(data_url=data_path)
         final_df = preprocess_data(df)

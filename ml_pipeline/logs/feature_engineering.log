@@ -5,3 +5,15 @@
 2026-09-28 20:33:39,922 - feature_engineering - DEBUG - tfidf applied and data transformed
 2026-09-28 20:33:40,004 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\train_tfidf.csv
 2026-09-28 20:33:40,021 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 22:21:54,553 - feature_engineering - DEBUG - Parameters retrieved from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\params.yaml
+2026-09-28 22:21:54,560 - feature_engineering - DEBUG - Data loaded and NaNs filled from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim\train_processed.csv
+2026-09-28 22:21:54,562 - feature_engineering - DEBUG - Data loaded and NaNs filled from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim\test_processed.csv
+2026-09-28 22:21:54,617 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-09-28 22:21:54,669 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\train_tfidf.csv
+2026-09-28 22:21:54,683 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 22:22:19,571 - feature_engineering - DEBUG - Parameters retrieved from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\params.yaml
+2026-09-28 22:22:19,577 - feature_engineering - DEBUG - Data loaded and NaNs filled from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim\train_processed.csv
+2026-09-28 22:22:19,580 - feature_engineering - DEBUG - Data loaded and NaNs filled from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim\test_processed.csv
+2026-09-28 22:22:19,637 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-09-28 22:22:19,688 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\train_tfidf.csv
+2026-09-28 22:22:19,702 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv

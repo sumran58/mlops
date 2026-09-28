@@ -40,3 +40,7 @@
 2026-09-28 22:02:36,127 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
 2026-09-28 22:02:36,167 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2026-09-28 22:02:36,470 - model_evaluation - DEBUG - Metrics saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\reports\metrics.json
+2026-09-28 22:22:48,173 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 22:22:48,178 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 22:22:48,211 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 22:22:48,507 - model_evaluation - DEBUG - Metrics saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\reports\metrics.json
