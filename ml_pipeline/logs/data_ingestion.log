@@ -1,0 +1,3 @@
+2026-09-28 20:10:33,154 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/sumran58/mlops/refs/heads/main/ml_pipeline/experiments/spam.csv
+2026-09-28 20:10:33,155 - data_ingestion - DEBUG - Data preprocessing completed
+2026-09-28 20:10:33,175 - data_ingestion - DEBUG - Train and test data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\raw

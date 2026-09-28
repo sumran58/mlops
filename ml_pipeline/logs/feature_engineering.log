@@ -1,0 +1,7 @@
+2026-09-28 20:33:13,119 - feature_engineering - ERROR - File not found: C:\Users\windows\Desktop\projects\mlops\ml_pipeline\params.yaml
+2026-09-28 20:33:13,120 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'C:\\Users\\windows\\Desktop\\projects\\mlops\\ml_pipeline\\params.yaml'
+2026-09-28 20:33:39,860 - feature_engineering - DEBUG - Data loaded and NaNs filled from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim\train_processed.csv
+2026-09-28 20:33:39,862 - feature_engineering - DEBUG - Data loaded and NaNs filled from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim\test_processed.csv
+2026-09-28 20:33:39,922 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-09-28 20:33:40,004 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\train_tfidf.csv
+2026-09-28 20:33:40,021 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv

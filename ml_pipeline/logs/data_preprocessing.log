@@ -1,0 +1,10 @@
+2026-09-28 20:22:08,147 - data_preprocessing - DEBUG - Data loaded properly
+2026-09-28 20:22:08,147 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-09-28 20:22:08,178 - data_preprocessing - DEBUG - Target column encoded
+2026-09-28 20:22:08,181 - data_preprocessing - DEBUG - Duplicates removed
+2026-09-28 20:22:44,015 - data_preprocessing - DEBUG - Text column transformed
+2026-09-28 20:22:44,015 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-09-28 20:22:44,016 - data_preprocessing - DEBUG - Target column encoded
+2026-09-28 20:22:44,017 - data_preprocessing - DEBUG - Duplicates removed
+2026-09-28 20:22:53,363 - data_preprocessing - DEBUG - Text column transformed
+2026-09-28 20:22:53,375 - data_preprocessing - DEBUG - Processed data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim
