@@ -1,0 +1,4 @@
+2026-09-28 20:50:10,213 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 20:50:10,220 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 20:50:10,252 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 20:50:13,970 - model_evaluation - DEBUG - Metrics saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\reports\metrics.json

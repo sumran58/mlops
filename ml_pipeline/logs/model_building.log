@@ -1,0 +1,5 @@
+2026-09-28 20:39:30,416 - model_building - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\train_tfidf.csv with shape (4152, 51)
+2026-09-28 20:39:30,417 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-09-28 20:39:30,418 - model_building - DEBUG - Model training started with 4152 samples
+2026-09-28 20:39:30,528 - model_building - DEBUG - Model training completed
+2026-09-28 20:39:30,530 - model_building - DEBUG - Model saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
