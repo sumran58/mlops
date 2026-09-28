@@ -2,9 +2,9 @@ import pandas as pd
 import os
 
 data = {
-    'Name': ['alice', 'bob', 'charlie'],
-    'age': [24, 25, 26],
-    'city': ['ratnagiri', 'mumbai', 'pune']
+    'Name': ['alice', 'bob', 'charlie','gf1'],
+    'age': [24, 25, 26,33],
+    'city': ['ratnagiri', 'mumbai', 'pune','pune']
 }
 
 df = pd.DataFrame(data)
