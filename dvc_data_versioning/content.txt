@@ -1,0 +1,22 @@
+data versioning means keepking the version if the data that u are using in the enitre project ..like how we keep the versions of the code in the git 
+the same way we will kep the version of the data in the DVC there are also other tools like mlflow,qflow ...
+dvc also keeps track of the ml models and the data 
+because somtimes data keep on changing its not static and we may se the artifacts like precison recall which we are getting after th data chnage is 
+degraded so we need to roll back to previous data therefore we keep versioning of the data 
+
+uv pip install dvc 
+
+dvc init 
+
+dvc remote add -d myremote S3 -> ye btata dvc ko ki kaha saara data ki versioning karni hai abhi filhal ham s3 ek folder banye hai yaha  he but it can be a location 
+in aws and other cloud platforms 
+
+dvc add data/  -> ye batata dvc ko ki data folder me jo bhi chages hoge tu vo trackkarte rhay but this willl now give error because git is alreay tracking 
+so before weneed to run the command git rm -r --cached 'data' and git commit -m "stoped tracjking " and then run the dvc command 
+
+if u have used uv to oinstall then before every command we will use uv run like 
+uv run dvc add data/
+uv run dvc status
+
+
+
