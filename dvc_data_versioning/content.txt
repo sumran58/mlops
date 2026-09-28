@@ -18,5 +18,11 @@ if u have used uv to oinstall then before every command we will use uv run like
 uv run dvc add data/
 uv run dvc status
 
+uv run dvc commit 
+uv run dvc commit 
+
+agar koi specific version pe roll back karnay to :-> git checkout shaid 
+dvc status
+uv run dvc pull
 
 
