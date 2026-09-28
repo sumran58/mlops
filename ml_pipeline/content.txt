@@ -1,0 +1,3 @@
+dvc init 
+dvc repro -> to run the dvc yaml file in one go 
+dvc dag -> to see the flow of the pieline visually

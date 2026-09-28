@@ -2,3 +2,41 @@
 2026-09-28 20:50:10,220 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
 2026-09-28 20:50:10,252 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2026-09-28 20:50:13,970 - model_evaluation - DEBUG - Metrics saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\reports\metrics.json
+2026-09-28 21:51:21,924 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 21:51:21,931 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 21:51:21,961 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 21:51:22,230 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2026-09-28 21:52:53,805 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 21:52:53,812 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 21:52:53,849 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 21:52:54,091 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2026-09-28 21:54:20,416 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 21:54:20,425 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 21:54:20,458 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 21:54:20,744 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2026-09-28 21:55:17,921 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 21:55:17,928 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 21:55:17,961 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 21:55:18,246 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2026-09-28 21:56:20,036 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 21:56:20,043 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 21:56:20,076 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 21:56:20,824 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'C:/Users/windows/Desktop/projects/mlops/ml_pipeline/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
+2026-09-28 21:56:51,304 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 21:56:51,313 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 21:56:51,348 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 21:56:52,015 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'C:/Users/windows/Desktop/projects/mlops/ml_pipeline/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
+2026-09-28 21:57:56,281 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 21:57:56,288 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 21:57:56,323 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 21:57:58,096 - model_evaluation - DEBUG - Metrics saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\reports\metrics.json
+2026-09-28 22:01:57,687 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 22:01:57,694 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 22:01:57,729 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 22:01:58,188 - model_evaluation - DEBUG - Metrics saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\reports\metrics.json
+2026-09-28 22:02:36,119 - model_evaluation - DEBUG - Model loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-28 22:02:36,127 - model_evaluation - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-28 22:02:36,167 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-28 22:02:36,470 - model_evaluation - DEBUG - Metrics saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\reports\metrics.json
