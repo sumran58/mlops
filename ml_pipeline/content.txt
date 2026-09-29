@@ -1,3 +1,10 @@
 dvc init 
 dvc repro -> to run the dvc yaml file in one go 
 dvc dag -> to see the flow of the pieline visually
+
+DVCLive is a tool from the DVC ecosystem that helps you track machine-learning experiments and their metrics.
+live use kiye na to ye command run karneka instead of dvc repro 
+dvc exp run -> is used when you want to run your ML pipeline as an experiment and compare different parameter/model versions.
+
+dvc ke extensionse se ham tabular format me experiments ke results ko compare kar saktev hai jo already maine install k hu 
+dvc exp remove 'exp-name' ->removes any expriment 

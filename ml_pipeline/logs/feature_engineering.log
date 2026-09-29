@@ -17,3 +17,9 @@
 2026-09-28 22:22:19,637 - feature_engineering - DEBUG - tfidf applied and data transformed
 2026-09-28 22:22:19,688 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\train_tfidf.csv
 2026-09-28 22:22:19,702 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv
+2026-09-29 10:13:41,291 - feature_engineering - DEBUG - Parameters retrieved from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\params.yaml
+2026-09-29 10:13:41,298 - feature_engineering - DEBUG - Data loaded and NaNs filled from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim\train_processed.csv
+2026-09-29 10:13:41,299 - feature_engineering - DEBUG - Data loaded and NaNs filled from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim\test_processed.csv
+2026-09-29 10:13:41,356 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-09-29 10:13:41,410 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\train_tfidf.csv
+2026-09-29 10:13:41,417 - feature_engineering - DEBUG - Data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\test_tfidf.csv

@@ -8,3 +8,27 @@
 2026-09-28 20:22:44,017 - data_preprocessing - DEBUG - Duplicates removed
 2026-09-28 20:22:53,363 - data_preprocessing - DEBUG - Text column transformed
 2026-09-28 20:22:53,375 - data_preprocessing - DEBUG - Processed data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim
+2026-09-29 10:09:46,280 - data_preprocessing - DEBUG - Data loaded properly
+2026-09-29 10:09:46,280 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-09-29 10:09:46,331 - data_preprocessing - DEBUG - Target column encoded
+2026-09-29 10:09:46,335 - data_preprocessing - DEBUG - Duplicates removed
+2026-09-29 10:10:38,326 - data_preprocessing - DEBUG - Text column transformed
+2026-09-29 10:10:38,326 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-09-29 10:10:38,327 - data_preprocessing - DEBUG - Target column encoded
+2026-09-29 10:10:38,329 - data_preprocessing - DEBUG - Duplicates removed
+2026-09-29 10:10:43,094 - data_preprocessing - DEBUG - Text column transformed
+2026-09-29 10:10:43,102 - data_preprocessing - DEBUG - Processed data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim
+2026-09-29 10:11:13,439 - data_preprocessing - DEBUG - Data loaded properly
+2026-09-29 10:11:13,440 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-09-29 10:11:13,464 - data_preprocessing - DEBUG - Target column encoded
+2026-09-29 10:11:13,466 - data_preprocessing - DEBUG - Duplicates removed
+2026-09-29 10:11:33,621 - data_preprocessing - DEBUG - Data loaded properly
+2026-09-29 10:11:33,621 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-09-29 10:11:33,648 - data_preprocessing - DEBUG - Target column encoded
+2026-09-29 10:11:33,650 - data_preprocessing - DEBUG - Duplicates removed
+2026-09-29 10:13:25,657 - data_preprocessing - DEBUG - Text column transformed
+2026-09-29 10:13:25,658 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-09-29 10:13:25,659 - data_preprocessing - DEBUG - Target column encoded
+2026-09-29 10:13:25,660 - data_preprocessing - DEBUG - Duplicates removed
+2026-09-29 10:13:38,478 - data_preprocessing - DEBUG - Text column transformed
+2026-09-29 10:13:38,496 - data_preprocessing - DEBUG - Processed data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\interim

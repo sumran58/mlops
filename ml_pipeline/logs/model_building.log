@@ -15,3 +15,9 @@
 2026-09-28 22:22:46,118 - model_building - DEBUG - Model training started with 4152 samples
 2026-09-28 22:22:46,197 - model_building - DEBUG - Model training completed
 2026-09-28 22:22:46,200 - model_building - DEBUG - Model saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl
+2026-09-29 10:13:43,164 - model_building - DEBUG - Parameters retrieved from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\params.yaml
+2026-09-29 10:13:43,174 - model_building - DEBUG - Data loaded from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\processed\train_tfidf.csv with shape (4670, 31)
+2026-09-29 10:13:43,176 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 20, 'random_state': 2}
+2026-09-29 10:13:43,176 - model_building - DEBUG - Model training started with 4670 samples
+2026-09-29 10:13:43,251 - model_building - DEBUG - Model training completed
+2026-09-29 10:13:43,255 - model_building - DEBUG - Model saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\models\model.pkl

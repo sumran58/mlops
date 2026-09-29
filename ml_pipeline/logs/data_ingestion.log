@@ -9,3 +9,7 @@
 2026-09-28 22:21:52,889 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/sumran58/mlops/refs/heads/main/ml_pipeline/experiments/spam.csv
 2026-09-28 22:21:52,890 - data_ingestion - DEBUG - Data preprocessing completed
 2026-09-28 22:21:52,909 - data_ingestion - DEBUG - Train and test data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\raw
+2026-09-29 10:09:42,263 - data_ingestion - DEBUG - Parameters retrieved from C:\Users\windows\Desktop\projects\mlops\ml_pipeline\params.yaml
+2026-09-29 10:09:43,655 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/sumran58/mlops/refs/heads/main/ml_pipeline/experiments/spam.csv
+2026-09-29 10:09:43,658 - data_ingestion - DEBUG - Data preprocessing completed
+2026-09-29 10:09:43,675 - data_ingestion - DEBUG - Train and test data saved to C:\Users\windows\Desktop\projects\mlops\ml_pipeline\data\raw
