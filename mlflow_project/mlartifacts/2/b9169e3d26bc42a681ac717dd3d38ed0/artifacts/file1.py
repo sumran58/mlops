@@ -35,7 +35,7 @@ with mlflow.start_run():
     mlflow.log_metric('accuracy', accuracy)
     mlflow.log_param('max_depth', max_depth)
     mlflow.log_param('n_estimators', n_estimators)
-    
+    print(accuracy)
 
     # Creating a confusion matrix plot
     cm = confusion_matrix(y_test, y_pred)
@@ -51,17 +51,3 @@ with mlflow.start_run():
     # log artifacts using mlflow
     mlflow.log_artifact("Confusion-matrix.png")
     mlflow.log_artifact(__file__)
-
-    #addding the tags
-    mlflow.set_tags({'author':'sumran','project':'mlflow'})
-
-    #artifact the model
-    mlflow.sklearn.log_model(
-    rf,
-    name="Random Forest",
-    skops_trusted_types=["sklearn.tree._tree.Tree"]
-)
-
-
-
-    print(accuracy)

@@ -5,7 +5,10 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
-import seaborn as sns
+import seaborn as sns   
+import dagshub
+dagshub.init(repo_owner='sumran58',repo_name='mlops',mlflow=True)
+mlflow.set_tracking_uri('https://dagshub.com/sumran58/mlops.mlflow')
 
 #MLflow, use the MLflow server running on my computer at port 5000." 
 mlflow.set_tracking_uri("http://127.0.0.1:5000")

@@ -56,11 +56,7 @@ with mlflow.start_run():
     mlflow.set_tags({'author':'sumran','project':'mlflow'})
 
     #artifact the model
-    mlflow.sklearn.log_model(
-    rf,
-    name="Random Forest",
-    skops_trusted_types=["sklearn.tree._tree.Tree"]
-)
+    mlflow.sklearn.log_model(rf,'Random Forest')
 
 
 

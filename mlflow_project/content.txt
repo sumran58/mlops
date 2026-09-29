@@ -1,0 +1,4 @@
+uv pip indtall mlflow 
+mlflow ui 
+dagshub DagsHub is basically a platform for ML/AI projects where you can manage your code, datasets, experiments, and models together.
+uv pip install dagshub

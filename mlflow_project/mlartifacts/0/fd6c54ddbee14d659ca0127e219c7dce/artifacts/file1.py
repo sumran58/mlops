@@ -7,7 +7,6 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-#MLflow, use the MLflow server running on my computer at port 5000." 
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
 # Load Wine dataset
@@ -23,7 +22,7 @@ max_depth = 10
 n_estimators = 10
 
 # Mention your experiment below
-mlflow.set_experiment('my_exp') #this we have created manually on the mlflow and usi ka naam yaha deneka then it will store all the experiemnt tracking under this experiment only 
+# mlflow.set_experiment('YT-MLOPS-Exp1')
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
@@ -35,7 +34,7 @@ with mlflow.start_run():
     mlflow.log_metric('accuracy', accuracy)
     mlflow.log_param('max_depth', max_depth)
     mlflow.log_param('n_estimators', n_estimators)
-    
+    print(accuracy)
 
     # Creating a confusion matrix plot
     cm = confusion_matrix(y_test, y_pred)
@@ -51,17 +50,3 @@ with mlflow.start_run():
     # log artifacts using mlflow
     mlflow.log_artifact("Confusion-matrix.png")
     mlflow.log_artifact(__file__)
-
-    #addding the tags
-    mlflow.set_tags({'author':'sumran','project':'mlflow'})
-
-    #artifact the model
-    mlflow.sklearn.log_model(
-    rf,
-    name="Random Forest",
-    skops_trusted_types=["sklearn.tree._tree.Tree"]
-)
-
-
-
-    print(accuracy)
