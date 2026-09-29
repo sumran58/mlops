@@ -1,0 +1,4 @@
+continuous  integration allows  to run the automated service which executes everything because when we make small chnages in our  code we should 
+be able to to integrate it properly wihout breaking the logic ofthe other code 
+so we have jenkins,github actions, travisci which runs the automated service but now we use gthubactiosn 
+for that we have to first create .github folder then in thta subfolder called workflows and in that yaml file 
