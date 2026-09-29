@@ -8,3 +8,12 @@ dvc exp run -> is used when you want to run your ML pipeline as an experiment an
 
 dvc ke extensionse se ham tabular format me experiments ke results ko compare kar saktev hai jo already maine install k hu 
 dvc exp remove 'exp-name' ->removes any expriment 
+
+if using aws bucket then first create th iam user anf then createa bucket s3 
+then :-> uv add dvc[s3]
+uv add awscli
+aws configure
+dvc remote add -d dvcstore s3://dvc-s3-proj
+ham sb kuch aws pe pus nhi karte sirf whi ewxp pus karte  jiske results acche aaye ho 
+dvc commit 
+dvc push
