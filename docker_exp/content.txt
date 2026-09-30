@@ -1,0 +1,8 @@
+docker is an application which allows us to run the application anywhere without any conflict becayse the appliation whih we have created may contin different 
+dependencies ,libarariees,etc which the other environment may not contain or we need to install those on other environment so doker allows to paackages 
+the entire application and in that it will contain the code,libarares,dependencies and aise he uthake ham dusre ko dege so without ny conflict it weill 
+run on thier omputer same as it runs on our computer ..
+
+we eed to create a dockerfile in our poject which will contains th commands and after running thta dile it will create the image(jo ham package bol 
+rahe the that means only image)
+after creating the dockerfile we run this command -> "docker build -t name" yaha pe ham koi bhi name de sakte hai 
