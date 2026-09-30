@@ -5,4 +5,15 @@ run on thier omputer same as it runs on our computer ..
 
 we eed to create a dockerfile in our poject which will contains th commands and after running thta dile it will create the image(jo ham package bol 
 rahe the that means only image)
+
 after creating the dockerfile we run this command -> "docker build -t name" yaha pe ham koi bhi name de sakte hai 
+
+build karneke baad jab ham execute karte image ko to wo banta ek container -> docker run -p 5000:5000 name 
+
+if u want to give a tag then then -> docker tag name sumran58/name:latest .....latest ke jagah kuch bhi tag de sakte because bht saarevfeatures and versions rhte 
+
+docker hub is the registry so now if we have to push there then -> docker push sumran58/name:latest
+
+push karneke baad if we want any image in our system then -> docker pull sumran5/name:latest
+
+and if we hve to run it then :-> docker run -p 5000:5000 name
